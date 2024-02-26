@@ -1,0 +1,32 @@
+body {
+    background:   #9092A5;
+  }
+  
+  
+   h1{
+   font-size: 60px;
+    color: #1528E8;
+    text-align: center; 
+     text-transform: uppercase;
+    text-decoration: overline;
+    
+  }
+  h2{
+   font-size: 30px;
+    color: #EB0D0D;
+    text-align: center; 
+    text-decoration: overline;
+    
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: brightness(110%);
+    filter: drop-shadow(10px 20px white); 
+  
+  
+  
+  
+  
+  }
